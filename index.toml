@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "e028581a686e4b8cab1013f0523b99829d97130bb4dddd7325ef8c91ddcc2e47"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
+metafile = true

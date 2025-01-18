@@ -1,0 +1,13 @@
+name = "Laurence Create"
+author = "Meeeee"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e24a640328c73bbf8366aded53205933824acd049a3c4a6545ad4beb3a637b94"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
