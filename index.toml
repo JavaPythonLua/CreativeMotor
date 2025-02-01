@@ -16,6 +16,11 @@ hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
 metafile = true
 
 [[files]]
@@ -66,8 +76,23 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "251abccc93ade9c6401da15636551060ec4d6fddf5c47fe843d4aed9b1697220"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "adcdffc1a10a3d195906d026e809fe1177a9d84334597fb28e49fd54ec48c389"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
 
 [[files]]
