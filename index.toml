@@ -6,7 +6,7 @@ hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
+file = "mods/athena.pw.toml"
 hash = "c4a8d43f64e4998d4a5b8276788ba77e9b669bd89185d48d6bc743d41c458db6"
 metafile = true
 
