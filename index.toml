@@ -6,6 +6,21 @@ hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "41bc3cf81e256e855c154390d76d15f1f745d638202f6b071b1fd3ea91a87a1d"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1f0ad1ed71545dd138f5f1bd258a0c9e5c66dc803a924551f36a0d8573960e90"
 metafile = true
@@ -13,6 +28,26 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "f7fdcef9fc880d5f5cd7324243f0521a6acf05ba3a5262bbb66ee1cf69198eda"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "a8325458914ecc387c8fdb2e64ddf2076454c7f3171a303b6809bc055df99028"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "2ca073751ea9983b8482b184ff577ac7a2793a8a30d5dbad42c1dce7a39477bd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
 
 [[files]]
@@ -31,8 +66,18 @@ hash = "97206655886e65e75af7c9ecabfc96cc2a8a3d4d54c165a6a4cfdb944a66d4b4"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "fc26e28382062a5e04d4b1d991ac13412f1d4b7a0b3fdec9689fd25fd2306186"
 metafile = true
 
 [[files]]
@@ -56,6 +101,11 @@ hash = "54f5e92a2c815523416a180d77fec3b8deaff0737e00340dbd994b09b81da418"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8675da0dd391ce1de0165cf7d6052ce70f78db332fc60bcc87e55c070e3169b6"
 metafile = true
@@ -63,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d00df959a44c7df8568f7e2321a825da3b78021a00b83289896deb4729ab2c5f"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "ce5224b0f7ff2789f11b6415a274dce1db7e9870b3d39160987f4838ce0e5d37"
 metafile = true
 
 [[files]]
@@ -76,8 +131,18 @@ hash = "c1ca50ab53ee2ab7297715db23e2cc8b066500d027a955f4b062d4722e611d6a"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c39c4f21c9924f21d979429c6803ce9408d2e31768bcb3ee0ea1578cf1cd2361"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
 
 [[files]]
