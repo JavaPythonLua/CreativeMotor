@@ -11,11 +11,6 @@ hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
-file = "mods/athena.pw.toml"
-hash = "41bc3cf81e256e855c154390d76d15f1f745d638202f6b071b1fd3ea91a87a1d"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
