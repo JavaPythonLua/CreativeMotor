@@ -81,11 +81,6 @@ hash = "29bb9523ec5f08436ecd9a2049050c9dfcf1b0bc44021f662f83738b6454fa80"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0581843b7677b7615470e06f08db2d720e5285a55f240ccbe6a1d98139d5344e"
 metafile = true
@@ -93,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c0452b2f93522355316fb71583e6d4bb3c44aeada9d20eb8fb7b71bc8d7114c0"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "03c55a1cbe4e547abba255cd02d157cb0ce3f8b782daa33797048061751b0f55"
 metafile = true
 
 [[files]]
@@ -136,11 +126,6 @@ hash = "8d21ad6ceecf787f2d0948338e05d02ef90851867bd2c4378a0aba54c00d528c"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "30264c616d114c85b8d213163e99b455b5003f94871ea73e1f6e1de8359a9bad"
 metafile = true
@@ -148,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "c1ca50ab53ee2ab7297715db23e2cc8b066500d027a955f4b062d4722e611d6a"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "0cad0ad4e37fd31ccdb4c1178ba27e0edda516385a3c2107e691de048155e0d7"
 metafile = true
 
 [[files]]
