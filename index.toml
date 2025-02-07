@@ -159,3 +159,8 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8ddcc8c9786f948d07f61690d578042d56698b7e2485e6090425f3411d863911"
 metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
+metafile = true
