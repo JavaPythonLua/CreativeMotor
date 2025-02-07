@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+hash = "c9326691274f1583c4e9b07d20f1e5bfc6dc4efefc18296ada635555c54a54bf"
 metafile = true
 
 [[files]]
@@ -167,5 +167,5 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
+hash = "b62536da784d6337d4fe22abdbd41bdebd9bc55267c288fc4da45bbd8c72f212"
 metafile = true
