@@ -11,6 +11,11 @@ hash = "c4a8d43f64e4998d4a5b8276788ba77e9b669bd89185d48d6bc743d41c458db6"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "236f2dc1ed45f3b6fc303cbb19642642701dcdb70871df276b6a796533554b00"
 metafile = true
