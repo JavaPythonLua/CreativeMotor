@@ -46,6 +46,11 @@ hash = "7099b1e8524ba5f3946c48792c5ef7a957515e146f3b9bb64092dcadf4b832cd"
 metafile = true
 
 [[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0204da2b723bde9778d7a4215b0c86b9433e2ab97382675c1c502e68946aa788"
 metafile = true
