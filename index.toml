@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e383373b9bdd43260afb16a006a7a90e73728245f9dc5b9b040ecb66d2fcf08b"
+hash = "5c66d23d5bf6188ef05d27c7b6c608734e65ad74aa5dcd86b3e7781d7489f62c"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "7099b1e8524ba5f3946c48792c5ef7a957515e146f3b9bb64092dcadf4b832cd"
+hash = "2ef2be9908885bf714113fbfdfc8023ffe5417efc7acf72650cea3677a6403c7"
 metafile = true
 
 [[files]]
@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "97206655886e65e75af7c9ecabfc96cc2a8a3d4d54c165a6a4cfdb944a66d4b4"
+hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "fae5c1d8eadebf0eace4cdb651e3a24ab9088382e9b1aa77a03c9bc04acc9dcb"
+hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "764a1d23ec038e56140a8fed6ac910ac4d89479cd7b1f538f3edb787137e0983"
+hash = "e9dc04504831b4dd873f2f5c7b9ad3bf0de816186c1de3b30435309702209e06"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "30264c616d114c85b8d213163e99b455b5003f94871ea73e1f6e1de8359a9bad"
+hash = "d77565d7bddd6ad8d855b1673bf1cf2decf2938d34bd56856dc2bf9238671717"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c39c4f21c9924f21d979429c6803ce9408d2e31768bcb3ee0ea1578cf1cd2361"
+hash = "5d608562aae7967c72f0711fb3836ce341aed463491d987fcf9e6a15fdeda841"
 metafile = true
 
 [[files]]
@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7bd6c6887d3ddd53ff6a10c7bafb05ff7609f35b7eccf5c43650d82ee13989d4"
+hash = "8a610e06ddb20cbdd1fb1227d01069b172159708bffc008b067d75e18cb5b91a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8ddcc8c9786f948d07f61690d578042d56698b7e2485e6090425f3411d863911"
+hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 metafile = true
 
 [[files]]
