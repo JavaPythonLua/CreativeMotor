@@ -117,11 +117,6 @@ file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
 hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
-metafile = true
-
-[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "95736041c9ff5b6f91faaa7b6db7f33af298eb6cff3d1400b68691aab047d60a"
 metafile = true
