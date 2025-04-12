@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/Vu79GVBm/Corgilib-Forge-1.20.1-4.0.3.3.jar"
-hash-format = "sha512"
-hash = "bfebf18e94a13445aa7a7bbc82bf3e92abff5e867d142d8a9e11c3ae3d9f8f77e4436d14d561b0256c1a0ed23ed2111d6be57ed4196ffac5ba11a84e9f43c95f"
+hash-format = "sha256"
+hash = "3b59119ecf7eb5e222fcd19e19816a3f266ec58ee87cb5d7a76f10beeacb8fae"
 
 [update]
 [update.modrinth]
