@@ -71,6 +71,11 @@ hash = "49add240ea542331f82f318c03358e17696649be83ddf8c87062fa5c736121a9"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2561a3968e95d78afea9e1112248eddbdb86d3adc0ee9d7b0428d9e3b6120d4a"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9a76ae98e34092421fb2c3d6a0c0810e28510c80c4ca13b230c165e54e2e7302"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
