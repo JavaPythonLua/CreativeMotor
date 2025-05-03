@@ -56,6 +56,11 @@ hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "28aa4b79d9b261293e062815e0b296a546440d37d8654a2d55610529ad43c17e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "5cce5a63aaddbef0b80e7d34be935ee769684b4c330c129ce4fa1305cf074eda"
 metafile = true
