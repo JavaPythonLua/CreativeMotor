@@ -21,6 +21,11 @@ hash = "236f2dc1ed45f3b6fc303cbb19642642701dcdb70871df276b6a796533554b00"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1f0ad1ed71545dd138f5f1bd258a0c9e5c66dc803a924551f36a0d8573960e90"
 metafile = true
@@ -61,6 +66,11 @@ hash = "28aa4b79d9b261293e062815e0b296a546440d37d8654a2d55610529ad43c17e"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "8108d70d105129e0ffb80090eade74fae9c8d5e3c3798f21e5cd86422d43e757"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "5cce5a63aaddbef0b80e7d34be935ee769684b4c330c129ce4fa1305cf074eda"
 metafile = true
@@ -76,6 +86,11 @@ hash = "49add240ea542331f82f318c03358e17696649be83ddf8c87062fa5c736121a9"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "09076e5476afb63e495a1dac36c1b00628577a27fbf42f690682521a06edff24"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
 metafile = true
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "2561a3968e95d78afea9e1112248eddbdb86d3adc0ee9d7b0428d9e3b6120d4a"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "718f446359f3a69ec2d537744bf089c13b681464f630ea75d8d771c4121c4394"
 metafile = true
 
 [[files]]
@@ -136,8 +156,28 @@ hash = "e56b5aca9961738260a772b4dfc53e87a949bac8e646fa831dd16601db6658ab"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6078f21514d310c7966d161a3bcf0cc7fd6ef63fb3b0444a0c7cea3551dbcd4"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
 metafile = true
 
 [[files]]
@@ -148,6 +188,16 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5e06b270cbc790d0c3df0d79365b3f08dc2159f27fa4e96a599542754eb916bb"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
