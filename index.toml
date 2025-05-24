@@ -66,11 +66,6 @@ hash = "a8057755352bc6c5931b998cb5084b1610af75e2cf8fc7f16547db9760a13bd5"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "84a09e247c47f59899a90a129f02a0bfa80b338d525cf8e41a270e49e58d4cd6"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "5cce5a63aaddbef0b80e7d34be935ee769684b4c330c129ce4fa1305cf074eda"
 metafile = true
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "03b2e7b30b66ed96b25498b152ddf5eb2e4c4a5c18a9ab01c481ee1ef0bfb294"
+hash = "75a97df05e5fcff135581a9d571010b9dd196ac6bfdd09bb23ccc7a76d3a5989"
 metafile = true
 
 [[files]]

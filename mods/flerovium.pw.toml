@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4Rh1Mobu/versions/jovVcOqb/flerovium-forge-1.20.1-1.2.13-all.jar"
-hash-format = "sha512"
-hash = "bb101a2c55b5883fe07f0e6f4d09081ce81342b6fef732ef262d3ffe0c6514189fa3f4d656b93426e835a25825ae2c376b3773f357b95a278e9082cd4e7eed22"
+hash-format = "sha256"
+hash = "e8e5834487112440f3a262ff5dc502a3ee0cae7ca30578fcf6889cfcbfdb37ca"
 
 [update]
 [update.modrinth]
