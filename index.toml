@@ -81,6 +81,11 @@ hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "03b2e7b30b66ed96b25498b152ddf5eb2e4c4a5c18a9ab01c481ee1ef0bfb294"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "49add240ea542331f82f318c03358e17696649be83ddf8c87062fa5c736121a9"
 metafile = true
