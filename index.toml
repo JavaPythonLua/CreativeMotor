@@ -166,11 +166,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6078f21514d310c7966d161a3bcf0cc7fd6ef63fb3b0444a0c7cea3551dbcd4"
 metafile = true
