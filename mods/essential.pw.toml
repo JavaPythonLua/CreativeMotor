@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ZxqKnZct/essential_1-3-5-12_forge_1-20-1.jar"
-hash-format = "sha512"
-hash = "98e723016649632c6c923f5cac363d412439f589457d9a82c2c7c61254ac936ccec5660b0d90a369d102917a0f0821f5a65464286fd4f12961f034ca88b03f98"
+hash-format = "sha256"
+hash = "baf96dd9e952a067640e041e1d047b7f3ee6953c63a4edecd5b5957a2598fefd"
 
 [update]
 [update.modrinth]
