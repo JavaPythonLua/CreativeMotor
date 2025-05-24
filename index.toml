@@ -191,11 +191,6 @@ hash = "c3e0bb5389e1683401c03cdd6e37c573c67466d989d6c34a29cacdef83680261"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "b9fe9746798cfc81ebff09e9b0eab82ea8472210e893e1397174e899c2e4c44a"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "7106ab6a417c8afef785cd31822d379808e7d3e2747edc09657170cecda79ba2"
 metafile = true
