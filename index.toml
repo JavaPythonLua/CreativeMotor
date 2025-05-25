@@ -176,6 +176,11 @@ hash = "ed76f7b4803958042b4d17c4fa2606c0698e758e5d3a3aa285cf9bb826b6f3f7"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e1ba99a16736c1f1cf3f88f5f88be42b529922a066ca4c1f67384c5b69d37a4b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "18a37be75ce4ea7127dbe3f0605c8051380deab55f92298db47bfab7fce64861"
 metafile = true
