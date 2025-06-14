@@ -51,6 +51,11 @@ hash = "9634283851df67684273e3633e4464f894e168459a8e5b4adab55270cb9878ab"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "3f36db9d984172e9f0f19641b1fa861dcde034ecb0321e3a33aad2f25fce60ff"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "3fa6c0e3d68229fccf07a7b699a67d49748e6c29305cdf0d4c2261353ab845ee"
 metafile = true
