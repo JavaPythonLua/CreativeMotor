@@ -166,6 +166,11 @@ hash = "3f2f82bbd384bf353edc124f27e9838f888aeb5b1dfdbec7fd9d96c59803623b"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "cbba238e48c2a5078df16b1377320095ce1a8c21b1ef5c6c1c3190b2882ad3f2"
 metafile = true
