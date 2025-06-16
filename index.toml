@@ -16,6 +16,11 @@ hash = "c9326691274f1583c4e9b07d20f1e5bfc6dc4efefc18296ada635555c54a54bf"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "236f2dc1ed45f3b6fc303cbb19642642701dcdb70871df276b6a796533554b00"
 metafile = true
@@ -61,6 +66,11 @@ hash = "3fa6c0e3d68229fccf07a7b699a67d49748e6c29305cdf0d4c2261353ab845ee"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/essential.pw.toml"
 hash = "a8057755352bc6c5931b998cb5084b1610af75e2cf8fc7f16547db9760a13bd5"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "49add240ea542331f82f318c03358e17696649be83ddf8c87062fa5c736121a9"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
 metafile = true
 
 [[files]]
@@ -121,13 +141,38 @@ hash = "b7ea1bfbd753377fd637a9fcd63420d552d8304e1d47233a144703af76419dc5"
 metafile = true
 
 [[files]]
+file = "mods/jea.pw.toml"
+hash = "f94528a852c02941bd471c278f66f509373e7d19ce58412f8a0b1bce71699a7f"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "54f5e92a2c815523416a180d77fec3b8deaff0737e00340dbd994b09b81da418"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "5da2157c4bc322dd70f0af213f34fe1963018da6fdafd7c2fbe5d921e348e6cb"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "5f92ea3a89a013d4a004e1a391ee00dad45715d46e002210a5692b87ef324815"
 metafile = true
 
 [[files]]
@@ -138,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "82c14c871a671e5f0f9f6857971ab5a6549317f929ce2150a95da0879249cedf"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
@@ -206,8 +256,28 @@ hash = "c3e0bb5389e1683401c03cdd6e37c573c67466d989d6c34a29cacdef83680261"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "3995c591237c0b1e85c66a0c1420367805653eeb02451c99497697f96296fe9f"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "7106ab6a417c8afef785cd31822d379808e7d3e2747edc09657170cecda79ba2"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
 
 [[files]]
